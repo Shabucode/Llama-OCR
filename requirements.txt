@@ -1,0 +1,4 @@
+easyocr
+ultralytics
+torch
+ipykernel
