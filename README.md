@@ -16,11 +16,11 @@ This project demonstrates how to extract text from images using **EasyOCR**. The
 
 Ensure you have **Python 3.x** installed, then install the required dependencies:  
 
-```In command prompt terminal
+```In command Prompt Terminal
 pip install -r requirements.txt
+```
 
-
-## 🛠️ Installation 
+## 🛠️ Application
 🔹 Extracting text from scanned documents 📄
 🔹 Automatic license plate recognition 🚗
 🔹 Translating signboards from images 🌍
