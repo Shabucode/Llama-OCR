@@ -20,12 +20,12 @@ Ensure you have **Python 3.x** installed, then install the required dependencies
 pip install -r requirements.txt
 
 
-🛠️ Applications
+## 🛠️ Installation 
 🔹 Extracting text from scanned documents 📄
 🔹 Automatic license plate recognition 🚗
 🔹 Translating signboards from images 🌍
 🔹 Digitizing handwritten notes ✍️
 
-📜 License
+## 📜 License
 This project is open-source under the MIT License.
 
